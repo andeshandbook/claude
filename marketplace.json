@@ -1,0 +1,13 @@
+{
+  "name": "andeshandbook",
+  "owner": {
+    "name": "Sociedad Geográfica de Documentación Andina"
+  },
+  "plugins": [
+    {
+      "name": "andeshandbook",
+      "source": "./plugins/andeshandbook",
+      "description": "Explora montañas, rutas de ascenso y senderos de trekking con el catálogo y la comunidad de Andeshandbook."
+    }
+  ]
+}
